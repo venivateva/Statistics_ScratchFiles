@@ -1,3 +1,3 @@
 # Statistics_ScratchFiles
-Experimenting with logistic regression and statistical analysis with python
-Notes 
+Experimenting with statistical analysis with python
+
